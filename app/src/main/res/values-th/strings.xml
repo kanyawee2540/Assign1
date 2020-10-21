@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TH</string>
+    <string name="assign1">Assigment 1</string>
+    <string name="sales">ยอดขาย</string>
+    <string name="sharePercen">ร้อยละส่วนแบ่ง</string>
+    <string name="salesMinusShare">ยอดขายหักส่วนแบ่ง</string>
+    <string name="salesShare">ส่วนแบ่งการขาย</string>
+    <string name="calBtn">คำนวณ</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string name="calBtn">Calculate</string>
+    <string name="assign1">Assigment 1</string>
+    <string name="sales">Sales</string>
+    <string name="sharePercen">Share percentage</string>
+    <string name="salesMinusShare">Sales Minus Share</string>
+    <string name="salesShare">Sales share</string>
+    <string name="empty_list_text">Nothing here.</string>
+</resources>
